@@ -1,0 +1,76 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.top{
+	background-color: #cccccc;
+}
+.max-width{
+	max-width: 1040px;
+}	
+.logo img{
+	padding: 30px;
+	width: 300px;
+	height: 60px;
+}
+.mid-text{
+	font-family: 'Old Standard TT', serif;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 20px;
+	padding-top: 5px;
+}
+.top_right{
+	color: #fff;
+	font-family: 'Old Standard TT', serif;
+	line-height: 20px;
+	font-size: 16px;
+	padding-right: 20px;
+}
+.search-form{
+    padding-top: 50px;
+    padding-left: 70px;
+}
+.titlelium a{
+	font-family: 'Titillium Web', sans-serif;
+	color: #a9a9a9;
+	font-size: 18px;
+	display: inline-block;
+	padding-top: 60px;
+	padding-left: 40px;
+}
+.search-form.{
+ margin-top: 30px;
+}
+.errspan {
+    float: right;
+    margin-right: -150px;
+    margin-top: -20px;
+    position: relative;
+    z-index: 2;
+    color: #000;
+}
+input[type="search"]
+{
+    border: 0;
+    border-bottom: 2px solid #666;
+    outline: 0;
+    width:490px;
+}
+
+/*=====================
+NAVBAR
+==========================*/
+.navbar{
+background-color: #000;
+margin-right: 0px;
+width: 100%;
+}
+.content_heading{
+	text-decoration: underline;
+	text-align: center;
+	padding-left: 20px;
+}
+.social{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
